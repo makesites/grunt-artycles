@@ -17,7 +17,7 @@
 	"bugs": {
 		"url": "https://github.com/makesites/grunt-artycles/issues"
 	},
-	"license": "http://makesites.org/licenses/MIT",
+	"license": "MIT",
 	"licenses": [
 		{
 		"type": "MIT",
