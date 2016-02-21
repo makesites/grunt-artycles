@@ -8,7 +8,11 @@
 	"description": "Grunt tasks for Artycles",
 	"homepage": "https://github.com/makesites/grunt-artycles",
 	"keywords": [
-		"gruntplugin", "artycles", "media", "encode", "convert"
+		"gruntplugin",
+		"artycles",
+		"media",
+		"encode",
+		"convert"
 	],
 	"repository": {
 		"type": "git",
@@ -20,8 +24,8 @@
 	"license": "MIT",
 	"licenses": [
 		{
-		"type": "MIT",
-		"url": "http://makesites.org/licenses/MIT"
+			"type": "MIT",
+			"url": "http://makesites.org/licenses/MIT"
 		}
 	],
 	"main": "index",
@@ -35,6 +39,6 @@
 		"grunt": "0.4.x"
 	},
 	"peerDependencies": {
-		"grunt": "0.4.x"
+		"grunt": ">=0.4.0"
 	}
 }
